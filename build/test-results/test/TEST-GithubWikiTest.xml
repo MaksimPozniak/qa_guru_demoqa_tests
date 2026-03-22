@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PracticeFormTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-21T12:23:26.245Z" hostname="MacBook-Pro-Maksim.local" time="3.97">
+<testsuite name="GithubWikiTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-22T11:59:40.355Z" hostname="MacBook-Pro-Maksim.local" time="5.504">
   <properties/>
-  <testcase name="practiceFormTest()" classname="PracticeFormTest" time="3.97"/>
+  <testcase name="softAssertionShouldContainJunit5Example()" classname="GithubWikiTest" time="5.504"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
 [Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/max/.cache/selenium/chromedriver/mac-arm64/145.0.7632.117/chromedriver
 [Test worker] INFO com.codeborne.selenide.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 1 - let's create a new webdriver
-мар. 21, 2026 3:23:26 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+мар. 22, 2026 2:59:40 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find CDP implementation matching 145
-мар. 21, 2026 3:23:26 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+мар. 22, 2026 2:59:40 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
 WARNING: Unable to find version of CDP to use for 145.0.7632.162. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.29.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide 7.7.3 / Selenium 4.29.0 / chrome 145.0.7632.162 mac
 ]]></system-err>
